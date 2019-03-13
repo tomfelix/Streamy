@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "1",
+      "description": "1qwerty",
+      "id": 1
+    },
+    {
+      "title": "2",
+      "description": "adasdsf",
+      "id": 2
+    },
+    {
+      "title": "3",
+      "description": "333",
+      "id": 3
+    }
+  ]
+}
